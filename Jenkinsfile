@@ -38,3 +38,4 @@ pipeline {
       echo 'One or more stages failed. Check the logs for details.'
     }
   }
+} // <-- Add this closing brace
